@@ -121,17 +121,13 @@ body {
     align-items: center;
 }
 
-.branner-detail-bor-right {
-    border-right: #675c00 solid 1px;
-}
 
 .branner-detail-content {
     width: fit-content;
-
 }
 
 .content-event-1-image img {
-    max-width: 28vw;
+    max-width: 80vw;
 }
 
 .under-branner-item {
@@ -144,24 +140,13 @@ body {
     color: #000000;
 }
 
-.img-event {
-    width: 200px;
-    transition: 0.2s;
-}
 
-.img-event:hover {
-    cursor: pointer;
-    transform: scale(1.1)
-}
 
 .base-footer {
     background: rgb(20, 14, 0, 0.58);
     border: 1px solid #8F7A4145;
 }
 
-.w-50 {
-    width: 500px;
-}
 
 
 
